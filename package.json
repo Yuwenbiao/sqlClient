@@ -1,0 +1,11 @@
+{
+  "name": "sqlclientdemo",
+  "version": "1.0.0",
+  "description": "sql client",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "yuwenbiao",
+  "license": "ISC"
+}
